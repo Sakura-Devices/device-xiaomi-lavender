@@ -6,8 +6,8 @@
         "revision":     "eleven"
     },
     {
-        "remote":       "github",
-        "repository":   "PixysOS-Devices/vendor_xiaomi_sdm660-common",
+        "remote":       "gitlab",
+        "repository":   "AlissonGrizotti/vendor_xiaomi_sdm660-common",
         "target_path":  "vendor/xiaomi/sdm660-common",
         "revision":     "eleven"
     },
