@@ -28,5 +28,11 @@
       "repository":"LineageOS/android_packages_resources_devicesettings",
       "target_path":"packages/resources/devicesettings",
       "branch":"lineage-18.0"
+   },
+   {
+      "remote":"github",
+      "repository":"LineageOS/android_packages_apps_FMRadio",
+      "target_path":"packages/apps/FMRadio",
+      "branch":"lineage-18.0"
    }
 ]
