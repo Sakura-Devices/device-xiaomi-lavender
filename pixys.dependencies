@@ -13,9 +13,9 @@
    },
    {
       "remote":"github",
-      "repository":"PixysOS-Devices/kernel_xiaomi_sdm660",
+      "repository":"stormbreaker-project/kernel_xiaomi_lavender",
       "target_path":"kernel/xiaomi/sdm660",
-      "revision":"eleven"
+      "revision":"oldcam-hmp"
    },
    {
       "remote":"gitlab",
