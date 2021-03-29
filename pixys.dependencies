@@ -15,7 +15,7 @@
       "remote":"github",
       "repository":"stormbreaker-project/kernel_xiaomi_lavender",
       "target_path":"kernel/xiaomi/sdm660",
-      "revision":"oldcam-hmp"
+      "branch":"oldcam-hmp"
    },
    {
       "remote":"gitlab",
