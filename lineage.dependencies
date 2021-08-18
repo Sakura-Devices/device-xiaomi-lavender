@@ -1,0 +1,44 @@
+[
+   {
+      "remote":"github",
+      "repository":"Sakura-Devices/device_xiaomi_sdm660-common",
+      "target_path":"device/xiaomi/sdm660-common",
+      "revision":"11"
+   },
+   {
+      "remote":"github",
+      "repository":"AlissonGrizotti/vendor_xiaomi_sdm660-common",
+      "target_path":"vendor/xiaomi/sdm660-common",
+      "revision":"eleven"
+   },
+   {
+      "remote":"github",
+      "repository":"NotZeetaa/nexus_kernel_lavender",
+      "target_path":"kernel/xiaomi/sdm660",
+      "branch":"hmp"
+   },
+   {
+      "remote":"github",
+      "repository":"AlissonGrizotti/hardware_qcom_display",
+      "target_path":"hardware/qcom-caf/sdm660/display",
+      "branch":"eleven"
+   },
+   {
+      "remote": "lineage",
+      "repository": "android_hardware_qcom_audio",
+      "target_path": "hardware/qcom-caf/sdm660/audio",
+      "branch": "lineage-18.1-caf-msm8998"
+   },
+   {
+      "remote": "lineage",
+      "repository": "android_hardware_qcom_media",
+      "target_path": "hardware/qcom-caf/sdm660/media",
+      "branch": "lineage-18.1-caf-msm8998"
+   },
+   {
+      "remote":"gitlab",
+      "repository":"AlissonGrizotti/vendor_xiaomi_lavender",
+      "target_path":"vendor/xiaomi/lavender",
+      "revision":"eleven"
+   }
+]
